@@ -17,5 +17,5 @@ class LoginPage extends React.Component{
         
     }
 }
-console.log('jdsfis');
+
 export default LoginPage;
